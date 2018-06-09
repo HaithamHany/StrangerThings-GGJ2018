@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: bee053727fdb3b14a874d171b9fa7ce7
+timeCreated: 1517143511
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Lucas_Nebla:pCube7
+    100004: Lucas_Nebla:pTorus1
+    100006: Lucas_Nebla:pTorus2
+    100008: Lucas_Nebla:transform21
+    100010: Lucas_Nebla:transform22
+    100012: mixamorig:Head
+    100014: mixamorig:HeadTop_End
+    100016: mixamorig:Hips
+    100018: mixamorig:LeftArm
+    100020: mixamorig:LeftFoot
+    100022: mixamorig:LeftForeArm
+    100024: mixamorig:LeftHand
+    100026: mixamorig:LeftHandIndex1
+    100028: mixamorig:LeftHandIndex2
+    100030: mixamorig:LeftHandIndex3
+    100032: mixamorig:LeftHandIndex4
+    100034: mixamorig:LeftLeg
+    100036: mixamorig:LeftShoulder
+    100038: mixamorig:LeftToe_End
+    100040: mixamorig:LeftToeBase
+    100042: mixamorig:LeftUpLeg
+    100044: mixamorig:Neck
+    100046: mixamorig:RightArm
+    100048: mixamorig:RightFoot
+    100050: mixamorig:RightForeArm
+    100052: mixamorig:RightHand
+    100054: mixamorig:RightHandIndex1
+    100056: mixamorig:RightHandIndex2
+    100058: mixamorig:RightHandIndex3
+    100060: mixamorig:RightHandIndex4
+    100062: mixamorig:RightLeg
+    100064: mixamorig:RightShoulder
+    100066: mixamorig:RightToe_End
+    100068: mixamorig:RightToeBase
+    100070: mixamorig:RightUpLeg
+    100072: mixamorig:Spine
+    100074: mixamorig:Spine1
+    100076: mixamorig:Spine2
+    100078: pCube6
+    100080: polySurface10
+    100082: polySurface11
+    100084: polySurface12
+    100086: polySurface13
+    100088: polySurface14
+    100090: polySurface16
+    100092: polySurface17
+    100094: polySurface18
+    100096: polySurface19
+    100098: polySurface20
+    100100: polySurface21
+    100102: polySurface24
+    100104: polySurface241
+    100106: polySurface25
+    100108: polySurface26
+    100110: polySurface27
+    100112: polySurface7
+    100114: polySurface8
+    100116: pPlane5
+    100118: pSphere4
+    100120: transform12
+    100122: transform13
+    100124: transform14
+    100126: transform15
+    100128: transform16
+    100130: transform17
+    100132: transform18
+    100134: transform19
+    100136: transform20
+    100138: transform23
+    100140: transform24
+    100142: transform25
+    100144: transform26
+    100146: transform27
+    100148: transform28
+    100150: transform29
+    400000: //RootNode
+    400002: Lucas_Nebla:pCube7
+    400004: Lucas_Nebla:pTorus1
+    400006: Lucas_Nebla:pTorus2
+    400008: Lucas_Nebla:transform21
+    400010: Lucas_Nebla:transform22
+    400012: mixamorig:Head
+    400014: mixamorig:HeadTop_End
+    400016: mixamorig:Hips
+    400018: mixamorig:LeftArm
+    400020: mixamorig:LeftFoot
+    400022: mixamorig:LeftForeArm
+    400024: mixamorig:LeftHand
+    400026: mixamorig:LeftHandIndex1
+    400028: mixamorig:LeftHandIndex2
+    400030: mixamorig:LeftHandIndex3
+    400032: mixamorig:LeftHandIndex4
+    400034: mixamorig:LeftLeg
+    400036: mixamorig:LeftShoulder
+    400038: mixamorig:LeftToe_End
+    400040: mixamorig:LeftToeBase
+    400042: mixamorig:LeftUpLeg
+    400044: mixamorig:Neck
+    400046: mixamorig:RightArm
+    400048: mixamorig:RightFoot
+    400050: mixamorig:RightForeArm
+    400052: mixamorig:RightHand
+    400054: mixamorig:RightHandIndex1
+    400056: mixamorig:RightHandIndex2
+    400058: mixamorig:RightHandIndex3
+    400060: mixamorig:RightHandIndex4
+    400062: mixamorig:RightLeg
+    400064: mixamorig:RightShoulder
+    400066: mixamorig:RightToe_End
+    400068: mixamorig:RightToeBase
+    400070: mixamorig:RightUpLeg
+    400072: mixamorig:Spine
+    400074: mixamorig:Spine1
+    400076: mixamorig:Spine2
+    400078: pCube6
+    400080: polySurface10
+    400082: polySurface11
+    400084: polySurface12
+    400086: polySurface13
+    400088: polySurface14
+    400090: polySurface16
+    400092: polySurface17
+    400094: polySurface18
+    400096: polySurface19
+    400098: polySurface20
+    400100: polySurface21
+    400102: polySurface24
+    400104: polySurface241
+    400106: polySurface25
+    400108: polySurface26
+    400110: polySurface27
+    400112: polySurface7
+    400114: polySurface8
+    400116: pPlane5
+    400118: pSphere4
+    400120: transform12
+    400122: transform13
+    400124: transform14
+    400126: transform15
+    400128: transform16
+    400130: transform17
+    400132: transform18
+    400134: transform19
+    400136: transform20
+    400138: transform23
+    400140: transform24
+    400142: transform25
+    400144: transform26
+    400146: transform27
+    400148: transform28
+    400150: transform29
+    2300000: Lucas_Nebla:pTorus2
+    3300000: Lucas_Nebla:pTorus2
+    4300000: polySurface19
+    4300002: polySurface11
+    4300004: polySurface12
+    4300006: polySurface13
+    4300008: polySurface241
+    4300010: Lucas_Nebla:pTorus2
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: polySurface11
+    13700002: polySurface12
+    13700004: polySurface13
+    13700006: polySurface19
+    13700008: polySurface241
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

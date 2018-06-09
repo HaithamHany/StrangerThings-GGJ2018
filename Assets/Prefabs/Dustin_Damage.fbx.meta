@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: aebfa40d9e6a71e429859422f48f8640
+timeCreated: 1517143370
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cylinder
+    100002: dustin:Head
+    100004: dustin:HeadTop_End
+    100006: dustin:Hips
+    100008: dustin:jacket
+    100010: dustin:LeftArm
+    100012: dustin:LeftFoot
+    100014: dustin:LeftForeArm
+    100016: dustin:LeftHand
+    100018: dustin:LeftHandIndex1
+    100020: dustin:LeftHandIndex2
+    100022: dustin:LeftHandIndex3
+    100024: dustin:LeftHandIndex4
+    100026: dustin:LeftLeg
+    100028: dustin:LeftShoulder
+    100030: dustin:LeftToe_End
+    100032: dustin:LeftToeBase
+    100034: dustin:LeftUpLeg
+    100036: dustin:Neck
+    100038: dustin:RightArm
+    100040: dustin:RightFoot
+    100042: dustin:RightForeArm
+    100044: dustin:RightHand
+    100046: dustin:RightHandIndex1
+    100048: dustin:RightHandIndex2
+    100050: dustin:RightHandIndex3
+    100052: dustin:RightHandIndex4
+    100054: dustin:RightLeg
+    100056: dustin:RightShoulder
+    100058: dustin:RightToe_End
+    100060: dustin:RightToeBase
+    100062: dustin:RightUpLeg
+    100064: dustin:Spine
+    100066: dustin:Spine1
+    100068: dustin:Spine2
+    100070: //RootNode
+    400000: Cylinder
+    400002: dustin:Head
+    400004: dustin:HeadTop_End
+    400006: dustin:Hips
+    400008: dustin:jacket
+    400010: dustin:LeftArm
+    400012: dustin:LeftFoot
+    400014: dustin:LeftForeArm
+    400016: dustin:LeftHand
+    400018: dustin:LeftHandIndex1
+    400020: dustin:LeftHandIndex2
+    400022: dustin:LeftHandIndex3
+    400024: dustin:LeftHandIndex4
+    400026: dustin:LeftLeg
+    400028: dustin:LeftShoulder
+    400030: dustin:LeftToe_End
+    400032: dustin:LeftToeBase
+    400034: dustin:LeftUpLeg
+    400036: dustin:Neck
+    400038: dustin:RightArm
+    400040: dustin:RightFoot
+    400042: dustin:RightForeArm
+    400044: dustin:RightHand
+    400046: dustin:RightHandIndex1
+    400048: dustin:RightHandIndex2
+    400050: dustin:RightHandIndex3
+    400052: dustin:RightHandIndex4
+    400054: dustin:RightLeg
+    400056: dustin:RightShoulder
+    400058: dustin:RightToe_End
+    400060: dustin:RightToeBase
+    400062: dustin:RightUpLeg
+    400064: dustin:Spine
+    400066: dustin:Spine1
+    400068: dustin:Spine2
+    400070: //RootNode
+    2300000: Cylinder
+    3300000: Cylinder
+    4300000: dustin:jacket
+    4300002: Cylinder
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: dustin:jacket
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
